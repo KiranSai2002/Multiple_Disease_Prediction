@@ -1,2 +1,2 @@
 # Multiple_Disease_Prediction
-The Multiple Disease Prediction project is a data science application that leverages machine learning algorithms and the Streamlit library to predict the likelihood of various diseases based on input data.
+This is a data science project that aims to predict the likelihood of multiple diseases based on input data. The project utilizes machine learning algorithms and the Streamlit library to create an interactive web application.
